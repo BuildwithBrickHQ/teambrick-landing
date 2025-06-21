@@ -1,42 +1,43 @@
 ---
 title: Home
 layout: default
-description: TeamBrick helps organizations build stronger, more collaborative teams through innovative tools and proven methodologies.
+description: TeamBrick - Your ultimate fitness companion for tracking workouts, logging meals, sharing progress, and connecting with your fitness community.
 ---
 
 # Welcome to TeamBrick
 
-## Building Better Teams, One Brick at a Time
+## Your Fitness Journey, Shared Together
 
-Transform your organization with our comprehensive team-building solutions. We help teams communicate better, collaborate more effectively, and achieve exceptional results together.
+Transform your health and fitness with our comprehensive platform that combines workout tracking, nutrition logging, and community sharing. Connect with others on similar journeys and stay motivated together.
 
-## Why Teams Choose TeamBrick
+## Why Fitness Enthusiasts Choose TeamBrick
 
-### 🚀 **Proven Results**
-Our methodologies have helped hundreds of teams improve their performance, communication, and satisfaction.
+### 🏋️ **Complete Fitness Tracking**
+Log your workouts, track your progress, and monitor your fitness journey with detailed analytics and insights.
 
-### 🎯 **Customized Solutions**  
-Every team is unique. We create tailored programs that address your specific challenges and goals.
+### 🍎 **Smart Food Logging**  
+Easily track your nutrition with our comprehensive food database and meal planning tools.
 
-### 🔧 **Practical Tools**
-Get access to digital platforms and resources that make collaboration effortless and effective.
+### 📱 **Visual Progress Sharing**
+Share workout videos, progress photos, and fitness milestones with your community for motivation and support.
 
-### 👥 **Expert Guidance**
-Work with experienced team development professionals who understand the science of high-performing teams.
+### 👥 **Community Connection**
+Connect with like-minded fitness enthusiasts, join challenges, and celebrate achievements together.
 
-## Our Services
+## Our Features
 
-- **Team Building Programs**: Interactive workshops and activities that strengthen team bonds
-- **Leadership Development**: Comprehensive training for managers and team leaders  
-- **Collaboration Tools**: Digital platforms designed for seamless teamwork
-- **Organizational Consulting**: Strategic guidance for optimizing team structure and processes
+- **Workout Tracking**: Log exercises, sets, reps, and track your strength progression
+- **Nutrition Logging**: Comprehensive food database with macro and calorie tracking  
+- **Progress Sharing**: Upload workout videos, before/after photos, and milestone celebrations
+- **Community Challenges**: Join group fitness challenges and compete with friends
+- **Personalized Analytics**: Detailed insights into your fitness and nutrition trends
 
-## Ready to Get Started?
+## Ready to Start Your Journey?
 
-Don't let poor teamwork hold your organization back. Join the hundreds of teams who have transformed their collaboration with TeamBrick.
+Don't go on your fitness journey alone. Join thousands of users who are transforming their health and supporting each other on TeamBrick.
 
-[Learn More About Us]({{ '/about/' | relative_url }}) | [Get In Touch]({{ '/contact/' | relative_url }})
+[Learn More About Us]({{ '/about/' | relative_url }}) | [Get Started Today]({{ '/contact/' | relative_url }})
 
 ---
 
-*Great teams aren't built overnight, but they are built with intention.*
+*Great transformations happen when we support each other.*
