@@ -3,7 +3,7 @@
 This repository powers the static landing site for **teambrick.co**, built with Jekyll and deployed on Cloudflare Pages.
 
 ## 🚀 Live Site
-Visit us at: [https://teambrick.co](https://teambrick.co)
+Visit us at: [https://demo.teambrick.co](https://demo.teambrick.co)
 
 ## 📝 How to Edit Content
 1. Click any `.md` file (e.g. `index.md`, `about.md`, `contact.md`) in GitHub
