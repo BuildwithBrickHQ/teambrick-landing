@@ -1,0 +1,47 @@
+title: "TeamBrick"
+description: "Building better teams together through innovative team-building solutions, leadership development, and collaboration tools."
+email: "admin@teambrick.co"
+baseurl: "" # no subpath
+url: "https://teambrick.co"
+
+# SEO and Social Media
+author: "TeamBrick"
+twitter_username: teambrick
+github_username: teambrick
+
+# Jekyll build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima # optional; you can remove if using your own layout
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections and defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Build settings for Cloudflare Pages
+future: false
+unpublished: false
+safe: true
+incremental: false
+profile: false

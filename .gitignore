@@ -1,0 +1,11 @@
+# Node modules (if you ever add JS build)
+node_modules/
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+# Editor
+.vscode/
+.idea/
+# Jekyll build output
+_site/

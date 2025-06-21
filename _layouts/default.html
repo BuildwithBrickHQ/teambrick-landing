@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }} – {{ site.title }}</title>
+    <meta name="description"
+        content="{{ page.description | default: site.description | default: 'TeamBrick - Building better teams together' }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="icon" type="image/png" href="{{ '/assets/images/logo.png' | relative_url }}">
+</head>
+
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo-title">
+                <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }} Logo" class="logo">
+                <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+            </div>
+            <nav>
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <a href="{{ '/about/' | relative_url }}">About</a>
+                <a href="{{ '/contact/' | relative_url }}">Contact</a>
+            </nav>
+        </div>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        <div class="footer-content">
+            <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+            <p>Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        </div>
+    </footer>
+</body>
+
+</html>
