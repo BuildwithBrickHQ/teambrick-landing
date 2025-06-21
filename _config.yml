@@ -12,13 +12,6 @@ github_username: teambrick
 # Jekyll build settings
 markdown: kramdown
 highlighter: rouge
-theme: minima # optional; you can remove if using your own layout
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
 
 # Collections and defaults
 defaults:
